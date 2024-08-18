@@ -24,7 +24,7 @@ I'm a passionate Computer Science student with a keen interest in web developmen
 
 Here are a few highlights of my work:
 
-### [Project 1: Portfolio Website](https://github.com/yourusername/portfolio-website)
+### [Project 1: Portfolio Website](https://github.com/umar-farooque-k/portfolio-website)
 ![Portfolio Website](portfolio.png)
 
 A personal portfolio website built using HTML, CSS, and JavaScript to showcase my projects and skills.
