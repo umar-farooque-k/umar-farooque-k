@@ -1,6 +1,6 @@
 # Hi there, I'm Umar Khan 👋
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile)
+![Profile Banner](banner.jpeg)
 
 I'm a passionate Computer Science student with a keen interest in web development and programming. I love to explore new technologies and build projects that challenge me to learn and grow.
 
