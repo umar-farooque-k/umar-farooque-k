@@ -20,24 +20,9 @@ I'm a passionate Computer Science student with a keen interest in web developmen
 - **Backend Development:** Getting started with Node.js and Express.js.
 - **Algorithms & Data Structures:** Enhancing problem-solving skills by practicing on platforms like LeetCode and HackerRank.
 
-## 💻 Projects
+## 🐍 GitHub Contribution Snake
 
-Here are a few highlights of my work:
-
-### [Project 1: Portfolio Website](https://github.com/umar-farooque-k/My-Portfolio)
-![Portfolio Website](portfolio.png)
-
-A personal portfolio website built using HTML, CSS, and JavaScript to showcase my projects and skills.
-
-### [Project 2: To-Do List App](https://github.com/yourusername/todo-list-app)
-![To-Do List App](https://via.placeholder.com/600x400.png?text=To-Do+List+App)
-
-A simple To-Do List application created with JavaScript to manage tasks efficiently.
-
-### [Project 3: Responsive Web Design](https://github.com/yourusername/responsive-web-design)
-![Responsive Web Design](https://via.placeholder.com/600x400.png?text=Responsive+Web+Design)
-
-A collection of responsive web pages demonstrating my understanding of mobile-first design and CSS media queries.
+![GitHub Contribution Snake](https://github.com/UmarFarooqueKhan/UmarFarooqueKhan/blob/output/github-contribution-grid-snake.svg)
 
 ## 📫 How to reach me
 
