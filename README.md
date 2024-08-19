@@ -22,7 +22,8 @@ I'm a passionate Computer Science student with a keen interest in web developmen
 
 ## 🐍 GitHub Contribution Snake
 
-![GitHub Contribution Snake](https://github.com/UmarFarooqueKhan/UmarFarooqueKhan/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://github.com/umar-farooque-k/umar-farooque-k/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 📫 How to reach me
 
