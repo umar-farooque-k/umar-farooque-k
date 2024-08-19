@@ -1,4 +1,4 @@
-# Hi there, I'm Umar Khan 👋
+# Hi there, I'm Umar Farooque Khan 👋
 
 ![Profile Banner](banner.jpeg)
 
