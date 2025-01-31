@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👾 Welcome to My GitHub Profile! 
 
-<!--
-**umar-farooque-k/umar-farooque-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! I'm **Umar Farooque Khan**, a final-year engineering student passionate about building cool projects with **React**. 🚀  
+I love creating dynamic and interactive web applications with game-like experiences! 🎮✨
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+🔹 **Frontend:** HTML5, CSS3, JavaScript, React  
+
+---
+
+## 📈 GitHub Stats
+![Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UmarFarooqueKhan&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UmarFarooqueKhan&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umar-khan)  
+
+---
+
+🔹 _"Code like a game developer, think like a problem solver!"_ 🎮💡  
+Thanks for stopping by! 🚀✨
+
